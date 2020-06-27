@@ -2,29 +2,29 @@
 <html>
 
 <head>
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="/NEW-GETYOURCAR/css/main.css">
 </head>
 
 <body>
 <header>
 <div class="header">
-  <a href="index.php" class="logo">GetYourCar</a>
+  <a href="/NEW-GETYOURCAR/index.php" class="logo">GetYourCar</a>
 
     <div class="header-right">
-    <a class="active" href="#index.php">Home</a>
-    <a href="cars.php">Cars</a>
-    <a href="contact.php">Contact</a>
-    <a href="login.php">Log In</a>
-    <a href="signup.php">Sign Up</a>  
-    <a href="about.php">About Us</a>  
-    <a href="logout.php">Logout</a>                      
+    <a class="active" href="/NEW-GETYOURCAR/index.php">Home</a>
+    <a href="/NEW-GETYOURCAR/cars.php">Cars</a>
+    <a href="/NEW-GETYOURCAR/contact.php">Contact</a>
+    <a href="/NEW-GETYOURCAR/login.php">Log In</a>
+    <a href="/NEW-GETYOURCAR/signup.php">Sign Up</a>  
+    <a href="/NEW-GETYOURCAR/about.php">About Us</a>  
+    <a href="/NEW-GETYOURCAR/logout.php">Logout</a>                      
   </div>
 
 </div>
 </header>
 
 <div class="home-image">
-  <img src="img/home1.jpg" style="width:100%;">
+  <img src="/NEW-GETYOURCAR/img/home1.jpg" style="width:100%;">
 </div>
 
 <div class="features">
@@ -53,7 +53,7 @@
 </div>
 
 <div class="home-image">
-  <img src="img/home2.png" style="width:100%;">
+  <img src="/NEW-GETYOURCAR/img/home2.png" style="width:100%;">
 </div>
 
 <br>
@@ -65,7 +65,7 @@
       <h1>Why Choose Us</h1>
 
       <div class="cars-column">
-        <img src="img/service1.png">
+        <img src="/NEW-GETYOURCAR/img/service1.png">
         <div class="banner-subheading">
           <h5">AFFORDABLE SERVICE CHARGES</h5>
           <p>Clients can tailor his travelling needs through our wide area of service policy. There are no hidden charges or Extra Tariff payment after execution.</p>
@@ -73,7 +73,7 @@
       </div>
 
       <div class="cars-column">
-        <img src="img/service2.png">
+        <img src="/NEW-GETYOURCAR/img/service2.png">
         <div class="banner-subheading">
           <h5">LARGE FLEET OF CARS</h5>
           <p>To meet up Clients social call or travel to utmost urgency, we can offer our perfect solution for the vehicle clients may need for their purposes.</p>
@@ -81,7 +81,7 @@
       </div>
 
       <div class="cars-column">
-        <img src="img/service3.png">
+        <img src="/NEW-GETYOURCAR/img/service3.png">
         <div class="banner-subheading">
           <h5">DEDICATION & COMMITMENT</h5>
           <p>Our drivers are abided by every needs of the clients. A client starts our services by getting inside of a vehicle, we finish.</p>
