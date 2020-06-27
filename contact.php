@@ -13,7 +13,7 @@
         <div class="header-right">
             <a href="/NEW-GETYOURCAR/index.php">Home</a>
             <a href="/NEW-GETYOURCAR/cars.php">Cars</a>
-            <a class="/NEW-GETYOURCAR/active" href="#contact.php">Contact</a>
+            <a class="active" href="/NEW-GETYOURCAR/contact.php">Contact</a>
             <a href="/NEW-GETYOURCAR/login.php">Log In</a>
             <a href="/NEW-GETYOURCAR/signup.php">Sign Up</a>   
             <a href="/NEW-GETYOURCAR/about.php">About Us</a>  
