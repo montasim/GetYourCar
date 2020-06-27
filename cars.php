@@ -20,27 +20,27 @@ else
 <html>
 
 <head>
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="/NEW-GETYOURCAR/css/main.css">
 </head>
 
 <body>
 <div class="header">
-  <a href="index.php" class="logo">GetYourCar</a>
+  <a href="/NEW-GETYOURCAR/index.php" class="logo">GetYourCar</a>
 
   <div class="header-right">
-    <a href="index.php">Home</a>
-    <a class="active" href="#cars.php">Cars</a>
-    <a href="contact.php">Contact</a>
-    <a href="login.php">Log In</a>
-    <a href="signup.php">Sign Up</a> 
-    <a href="about.php">About Us</a>   
-    <a href="logout.php">Logout</a>                      
+    <a href="/NEW-GETYOURCAR/index.php">Home</a>
+    <a class="active" href="/NEW-GETYOURCAR/cars.php">Cars</a>
+    <a href="/NEW-GETYOURCAR/contact.php">Contact</a>
+    <a href="/NEW-GETYOURCAR/login.php">Log In</a>
+    <a href="/NEW-GETYOURCAR/signup.php">Sign Up</a> 
+    <a href="/NEW-GETYOURCAR/about.php">About Us</a>   
+    <a href="/NEW-GETYOURCAR/logout.php">Logout</a>                      
   </div>
 </div>
 
 <div class="cars-row">
   <div class="cars-column">
-    <img src="img/car1.jpg" style="width:100%">
+    <img src="/NEW-GETYOURCAR/img/car1.jpg" style="width:100%">
     <div class="banner-subheading">
       <h5>Book This Car</h5>
       <p>৳ 1500++<br>
@@ -49,12 +49,12 @@ else
       Any Airport in Bangladesh.</p>
     </div>
     <div class="form-group">
-      <a href="booking.php"><button class="form-button" type="submit">Book This Car</button></a>
+      <a href="/NEW-GETYOURCAR/booking.php"><button class="form-button" type="submit">Book This Car</button></a>
     </div>
   </div>
 
   <div class="cars-column">
-    <img src="img/car2.jpg" style="width:100%">
+    <img src="/NEW-GETYOURCAR/img/car2.jpg" style="width:100%">
     <div class="banner-subheading">
     <h5>Book This Car</h5>
     <p>৳ 1750++<br>
@@ -63,12 +63,12 @@ else
     Including Fuel Cost</p>
     </div>
     <div class="form-group">
-      <a href="booking.php"><button class="form-button" type="submit">Book This Car</button></a>
+      <a href="/NEW-GETYOURCAR/booking.php"><button class="form-button" type="submit">Book This Car</button></a>
     </div>
   </div>
 
   <div class="cars-column">
-    <img src="img/car3.jpg" style="width:100%">
+    <img src="/NEW-GETYOURCAR/img/car3.jpg" style="width:100%">
     <div class="banner-subheading">
     <h5>Book This Car</h5>
     <p>৳ 1500++<br>
@@ -77,7 +77,7 @@ else
     Any Airport in Bangladesh.</p>
     </div>
     <div class="form-group">
-      <a href="booking.php"><button class="form-button" type="submit">Book This Car</button></a>
+      <a href="/NEW-GETYOURCAR/booking.php"><button class="form-button" type="submit">Book This Car</button></a>
     </div>
   </div>
 </div>
@@ -87,7 +87,7 @@ else
 
 <div class="cars-row">
   <div class="cars-column">
-    <img src="img/car4.jpg" style="width:100%">
+    <img src="/NEW-GETYOURCAR/img/car4.jpg" style="width:100%">
     <div class="banner-subheading">
       <h5>Book This Car</h5>
       <p>৳ 1500++<br>
@@ -96,12 +96,12 @@ else
       Any Airport in Bangladesh.</p>
     </div>
     <div class="form-group">
-      <a href="booking.php"><button class="form-button" type="submit">Book This Car</button></a>
+      <a href="/NEW-GETYOURCAR/booking.php"><button class="form-button" type="submit">Book This Car</button></a>
     </div>
   </div>
 
   <div class="cars-column">
-    <img src="img/car5.jpg" style="width:100%">
+    <img src="/NEW-GETYOURCAR/img/car5.jpg" style="width:100%">
     <div class="banner-subheading">
     <h5>Book This Car</h5>
     <p>৳ 1750++<br>
@@ -110,12 +110,12 @@ else
     Including Fuel Cost</p>
     </div>
     <div class="form-group">
-      <a href="booking.php"><button class="form-button" type="submit">Book This Car</button></a>
+      <a href="/NEW-GETYOURCAR/booking.php"><button class="form-button" type="submit">Book This Car</button></a>
     </div>
   </div>
   
   <div class="cars-column">
-    <img src="img/car6.jpg" style="width:100%">
+    <img src="/NEW-GETYOURCAR/img/car6.jpg" style="width:100%">
     <div class="banner-subheading">
     <h5>Book This Car</h5>
     <p>৳ 1500++<br>
@@ -124,7 +124,7 @@ else
     Any Airport in Bangladesh.</p>
     </div>
     <div class="form-group">
-      <a href="booking.php"><button class="form-button" type="submit">Book This Car</button></a>
+      <a href="/NEW-GETYOURCAR/booking.php"><button class="form-button" type="submit">Book This Car</button></a>
     </div>
   </div>
 </div>
@@ -134,7 +134,7 @@ else
 
 <div class="cars-row">
   <div class="cars-column">
-    <img src="img/car7.jpg" style="width:100%">
+    <img src="/NEW-GETYOURCAR/img/car7.jpg" style="width:100%">
     <div class="banner-subheading">
       <h5>Book This Car</h5>
       <p>৳ 1500++<br>
@@ -143,12 +143,12 @@ else
       Any Airport in Bangladesh.</p>
     </div>
     <div class="form-group">
-      <a href="booking.php"><button class="form-button" type="submit">Book This Car</button></a>
+      <a href="/NEW-GETYOURCAR/booking.php"><button class="form-button" type="submit">Book This Car</button></a>
     </div>
   </div>
 
   <div class="cars-column">
-    <img src="img/car8.jpg" style="width:100%">
+    <img src="/NEW-GETYOURCAR/img/car8.jpg" style="width:100%">
     <div class="banner-subheading">
     <h5>Book This Car</h5>
     <p>৳ 1750++<br>
@@ -157,12 +157,12 @@ else
     Including Fuel Cost</p>
     </div>
     <div class="form-group">
-      <a href="booking.php"><button class="form-button" type="submit">Book This Car</button></a>
+      <a href="/NEW-GETYOURCAR/booking.php"><button class="form-button" type="submit">Book This Car</button></a>
     </div>
   </div>
   
   <div class="cars-column">
-    <img src="img/car9.jpg" style="width:100%">
+    <img src="/NEW-GETYOURCAR/img/car9.jpg" style="width:100%">
     <div class="banner-subheading">
     <h5>Book This Car</h5>
     <p>৳ 1500++<br>
@@ -171,7 +171,7 @@ else
     Any Airport in Bangladesh.</p>
     </div>
     <div class="form-group">
-      <a href="booking.php"><button class="form-button" type="submit">Book This Car</button></a>
+      <a href="/NEW-GETYOURCAR/booking.php"><button class="form-button" type="submit">Book This Car</button></a>
     </div>
   </div>
 </div>
